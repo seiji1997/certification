@@ -7,7 +7,7 @@ These are my certification.
 - [Google Cloud Professional Data Engineer (有効期限2024/8)](https://www.credential.net/136da6fb-cf74-4bda-a834-3ec4bc7cd5d0)
 
 ### Deep Learning
-- AI実装検定A級（株式会社EQUATION）
+- [AI実装検定A級（株式会社EQUATION）](https://github.com/seiji1997/certification/blob/master/Deep%20Learning/AI%E5%AE%9F%E8%A3%85%E6%A4%9C%E5%AE%9AA%E7%B4%9A%E5%90%88%E6%A0%BC%E8%A8%BC.pdf)
 - [JDLA Deep Learning for GENERAL 2021 #3
  (一般社団法人　日本ディープラーニング協会)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/RnpqUDZwU1EwRm5STC8rd1FUMlV5UT09)
 - [JDLA Deep Learning for ENGINEER 2022 #1
