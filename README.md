@@ -1,7 +1,5 @@
 # my-certification
 These are my certification.
-### 資格取得証明
-https://www.linkedin.com/in/seijitanimoto1997/details/certifications/
 
 ### Google Cloud
 - [Google Cloud Associate Cloud Engineer (有効期限2024/5)](https://www.credential.net/69b523ee-b88b-452f-be3d-c3eee294740e)
