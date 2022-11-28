@@ -25,4 +25,4 @@ These are my certification.
 - [Google Cloud Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/YQ7GYB23UKC6)
 
 ### English
-- TOEIC L&R score total 630 (Listening 405, Reading 225)
+- [TOEIC L&R score total 630 (Listening 405, Reading 225)](https://github.com/seiji1997/certification/blob/master/English/20221023_TOEIC.png)
