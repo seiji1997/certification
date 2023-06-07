@@ -3,9 +3,11 @@ These are my certification.
 
 ### Google Cloud
 [Google Cloud](https://github.com/seiji1997/certification/tree/master/Google%20Cloud)の資格証
-- [Google Cloud Associate Cloud Engineer (有効期限2024/5)](https://www.credential.net/69b523ee-b88b-452f-be3d-c3eee294740e)
-- [Google Cloud Professional Cloud Architect (有効期限2024/6)](https://www.credential.net/88c3139a-02a4-4fa6-ae53-944bc543ef66?key=bf71052df62f823ee927b58b8566900bef5795cc498311343a038b1b9580914d)
-- [Google Cloud Professional Data Engineer (有効期限2024/8)](https://www.credential.net/136da6fb-cf74-4bda-a834-3ec4bc7cd5d0)
+- [Google Cloud Certified Associate Cloud Engineer (有効期限2024/5)](https://www.credential.net/69b523ee-b88b-452f-be3d-c3eee294740e)
+- [Google Cloud Certified Professional Cloud Architect (有効期限2024/6)](https://www.credential.net/88c3139a-02a4-4fa6-ae53-944bc543ef66?key=bf71052df62f823ee927b58b8566900bef5795cc498311343a038b1b9580914d)
+- [Google Cloud Certified Professional Data Engineer (有効期限2024/8)](https://www.credential.net/136da6fb-cf74-4bda-a834-3ec4bc7cd5d0)
+- [Google Cloud Certified Professional Cloud Security Engineer](https://google.accredible.com/52675084-7955-49f8-a506-146dc821f329)
+- [Google Cloud Certified Professional Machine Learning Engineer](https://google.accredible.com/31c68246-7a34-48c9-93d6-50ac6d454108)
 
 ### Deep Learning
 [Deep Learning](https://github.com/seiji1997/certification/tree/master/Deep%20Learning)の資格証
