@@ -31,4 +31,5 @@ These are my certification.
 
 ### English
 [English](https://github.com/seiji1997/certification/tree/master/English)の資格証
-- [TOEIC L&R score total 630 (Listening 405, Reading 225)](https://github.com/seiji1997/certification/blob/master/English/20221023_TOEIC.png)
+- [TOEIC L&R score total 740 (Listening 410, Reading 330)](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JRrQM49xdEmllNACG0qjyox79tZgYwv5Jw)
+- [TOEIC L&R score total 755 (Listening 440, Reading 315)](https://iibc.cloudcerts.jp/viewer/cert/5aJemlWBgNAqgu68NgOA5VmIbVAVQ8JROpNvnZbjvWX3hqQXrO5de7iGOzAXQ9pl)
